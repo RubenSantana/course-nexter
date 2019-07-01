@@ -4,7 +4,7 @@
     <list default="true" id="431c0a78-1bcc-4248-be44-085d6d395a7a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_homes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_homes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_gallery.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,30 +20,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="153" column="36" selection-start-line="153" selection-start-column="36" selection-end-line="153" selection-end-column="36" />
+            <state relative-caret-position="342">
+              <caret line="337" column="28" selection-start-line="337" selection-start-column="28" selection-end-line="337" selection-end-column="28" />
               <folding>
                 <element signature="e#487#494#0" expanded="true" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#3344#3351#0" expanded="true" />
-                <element signature="e#3381#3388#0" expanded="true" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
+        <entry file="file://$PROJECT_DIR$/sass/_gallery.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+            <state relative-caret-position="461">
+              <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -66,7 +67,6 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/sass/_sidebar.scss" />
-        <option value="$PROJECT_DIR$/sass/_gallery.scss" />
         <option value="$PROJECT_DIR$/sass/_footer.scss" />
         <option value="$PROJECT_DIR$/sass/_header.scss" />
         <option value="$PROJECT_DIR$/sass/_realtors.scss" />
@@ -74,8 +74,9 @@
         <option value="$PROJECT_DIR$/sass/_features.scss" />
         <option value="$PROJECT_DIR$/sass/_typography.scss" />
         <option value="$PROJECT_DIR$/sass/_story.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/_homes.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/_gallery.scss" />
       </list>
     </option>
   </component>
@@ -142,11 +143,12 @@
       <updated>1561744129444</updated>
       <workItem from="1561744132037" duration="815000" />
       <workItem from="1561939170795" duration="4352000" />
+      <workItem from="1561982411512" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11329000" />
+    <option name="totallyTimeSpent" value="14428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -197,13 +199,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_gallery.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -263,30 +258,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="153" column="36" selection-start-line="153" selection-start-column="36" selection-end-line="153" selection-end-column="36" />
+        <state relative-caret-position="342">
+          <caret line="337" column="28" selection-start-line="337" selection-start-column="28" selection-end-line="337" selection-end-column="28" />
           <folding>
             <element signature="e#487#494#0" expanded="true" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#3344#3351#0" expanded="true" />
-            <element signature="e#3381#3388#0" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
+    <entry file="file://$PROJECT_DIR$/sass/_gallery.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="461">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
         </state>
       </provider>
     </entry>
